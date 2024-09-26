@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice_project", "Practice_project.csproj", "{27583CA1-115C-485C-9613-7DF38BE99FEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oddOrEven", "..\oddOrEven\oddOrEven.csproj", "{C7BA7423-44DA-4C01-B806-9F0EE7C8B3F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27583CA1-115C-485C-9613-7DF38BE99FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27583CA1-115C-485C-9613-7DF38BE99FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27583CA1-115C-485C-9613-7DF38BE99FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27583CA1-115C-485C-9613-7DF38BE99FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7BA7423-44DA-4C01-B806-9F0EE7C8B3F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7BA7423-44DA-4C01-B806-9F0EE7C8B3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7BA7423-44DA-4C01-B806-9F0EE7C8B3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7BA7423-44DA-4C01-B806-9F0EE7C8B3F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBF01331-E3E3-472E-AE5E-6C433897FB17}
+	EndGlobalSection
+EndGlobal
