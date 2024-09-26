@@ -3,6 +3,21 @@
   "WorkspaceRootPath": "D:\\Users\\M R SRIDHAR REDDY\\source\\repos\\Practice_project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C7BA7423-44DA-4C01-B806-9F0EE7C8B3F1}|..\\oddOrEven\\oddOrEven.csproj|d:\\users\\m r sridhar reddy\\source\\repos\\oddoreven\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0C940C-B562-4D4E-998B-53AA80314F59}|..\\smallestInArray\\smallestInArray.csproj|d:\\users\\m r sridhar reddy\\source\\repos\\smallestinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4359C2-D799-4161-9B03-FB3BC41B79D0}|..\\palindrome\\palindrome.csproj|d:\\users\\m r sridhar reddy\\source\\repos\\palindrome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02ACCBE6-E60A-445B-9786-9D97F8ACBC07}|..\\MaxOfThreeNums\\MaxOfThreeNums.csproj|d:\\users\\m r sridhar reddy\\source\\repos\\maxofthreenums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEAC592-E592-47D2-9A12-87C0B971B474}|..\\factorial\\factorial.csproj|d:\\users\\m r sridhar reddy\\source\\repos\\factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27583CA1-115C-485C-9613-7DF38BE99FEB}|Practice_project.csproj|d:\\users\\m r sridhar reddy\\source\\repos\\practice_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{27583CA1-115C-485C-9613-7DF38BE99FEB}|Practice_project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,21 +29,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\M R SRIDHAR REDDY\\source\\repos\\smallestInArray\\Program.cs",
+              "RelativeDocumentMoniker": "..\\smallestInArray\\Program.cs",
+              "ToolTip": "D:\\Users\\M R SRIDHAR REDDY\\source\\repos\\smallestInArray\\Program.cs",
+              "RelativeToolTip": "..\\smallestInArray\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:21:59.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\M R SRIDHAR REDDY\\source\\repos\\palindrome\\Program.cs",
+              "RelativeDocumentMoniker": "..\\palindrome\\Program.cs",
+              "ToolTip": "D:\\Users\\M R SRIDHAR REDDY\\source\\repos\\palindrome\\Program.cs",
+              "RelativeToolTip": "..\\palindrome\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:55:56.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\M R SRIDHAR REDDY\\source\\repos\\factorial\\Program.cs",
+              "RelativeDocumentMoniker": "..\\factorial\\Program.cs",
+              "ToolTip": "D:\\Users\\M R SRIDHAR REDDY\\source\\repos\\factorial\\Program.cs",
+              "RelativeToolTip": "..\\factorial\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:23:00.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\M R SRIDHAR REDDY\\source\\repos\\MaxOfThreeNums\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MaxOfThreeNums\\Program.cs",
+              "ToolTip": "D:\\Users\\M R SRIDHAR REDDY\\source\\repos\\MaxOfThreeNums\\Program.cs",
+              "RelativeToolTip": "..\\MaxOfThreeNums\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:04:44.722Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\M R SRIDHAR REDDY\\source\\repos\\oddOrEven\\Program.cs",
+              "RelativeDocumentMoniker": "..\\oddOrEven\\Program.cs",
+              "ToolTip": "D:\\Users\\M R SRIDHAR REDDY\\source\\repos\\oddOrEven\\Program.cs",
+              "RelativeToolTip": "..\\oddOrEven\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:41:36.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Users\\M R SRIDHAR REDDY\\source\\repos\\Practice_project\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Users\\M R SRIDHAR REDDY\\source\\repos\\Practice_project\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T09:07:14.812Z",
               "EditorCaption": ""
